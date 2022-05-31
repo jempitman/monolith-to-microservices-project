@@ -45,5 +45,3 @@ venv/
 env-configmap.yaml
 aws-secret.yaml
 env-secret.yaml
-
-package-lock.json
